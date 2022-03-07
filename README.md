@@ -9,3 +9,7 @@ Follow the instructions in your canvas lab assessment for this activity
 I am updating the README.md by
 - using markdown 
 - creating a list 
+
+Trial 2
+Quote
+> this is a quote
